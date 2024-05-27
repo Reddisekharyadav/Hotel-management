@@ -1,6 +1,4 @@
-Certainly! Here's a description for your hotel management project to include in your GitHub README file:
 
----
 
 # Hotel Management System
 
